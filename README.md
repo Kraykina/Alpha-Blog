@@ -1,2 +1,1 @@
-Alfa-Blog
 # Alpha-Blog
